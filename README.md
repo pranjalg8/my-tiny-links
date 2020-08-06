@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to the links collection
 
-You can use the [editor on GitHub](https://github.com/pranjalg8/my-tiny-links/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Drive links Search Engine
+[Search Engine](https://tiny.cc/search-glinks)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### DC++ Guide
+[DC Guide for BPHC](http://www.tinyurl.com/legendhub)
 
-### Markdown
+### Course prerequisite document
+[Prereq PDF]http://tiny.cc/prereq-bphc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Form link for Free DC Access (for Mac and other low storage devices to bypass share limit)
+[Link to form](http://tiny.cc/free-dc)
 
-```markdown
-Syntax highlighted code block
+### Network Troubleshooting solutions
+[Link to doc](http://tiny.cc/network-troubleshoot)
 
-# Header 1
-## Header 2
-### Header 3
+### Static IP settings
+[Link to doc](http://tiny.cc/static-ip-bphc)
 
-- Bulleted
-- List
+### BPHC Network Survey Report
+[Network analysis BPHC report](http://tinyurl.com/network-report)
 
-1. Numbered
-2. List
+### Laptop Buying Guide
+[Link to doc](http://tiny.cc/laptop-guide)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranjalg8/my-tiny-links/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Humanities Feedback
+[Link to doc](http://tiny.cc/humanities-feedback)
