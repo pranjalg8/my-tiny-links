@@ -1,6 +1,4 @@
-## Welcome to the links collection
-
-## Acad Related Links
+# Acad Related Links
 
 ### Course prerequisite document
 
@@ -34,7 +32,7 @@
 
 [PS1 Reports](https://drive.google.com/drive/folders/0Bw_Ho2Q9rGmWZGhoTVY1am5Ocmc?usp=sharing)
 
-## DC Related Links
+# DC Related Links
 
 ### Latest DC on drive [Beta]
 
@@ -52,7 +50,7 @@
 
 [Link to form](http://tiny.cc/free-dc)
 
-## Surveys and General Guides
+# Surveys and General Guides
 
 ### Network Troubleshooting solutions
 
@@ -70,7 +68,7 @@
 
 [Link to doc](http://tiny.cc/laptop-guide)
 
-## Other personal repo links
+# Other personal repo links
 
 [Capture Location](https://pranjalg8.github.io/capture-location/)
 
