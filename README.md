@@ -14,7 +14,7 @@
 
 [Link to doc](http://tiny.cc/humanities-feedback)
 
-[Another fedback doc](https://docs.google.com/spreadsheets/d/1DJqmqEKHNPo_BMdNe5q2frmWTtNfiB9i4Moe5aTNOqo/edit?usp=sharig
+[Another feedback doc](https://docs.google.com/spreadsheets/d/1DJqmqEKHNPo_BMdNe5q2frmWTtNfiB9i4Moe5aTNOqo/edit?usp=sharing)
 
 ### MSc Maths course dependency graph
 
@@ -30,7 +30,7 @@
 
 [BITS CMS](https://drive.google.com/drive/folders/1g-JS00fh71ys0HomuDiAC09vyZ9gQugT?usp=sharing)
 
-[Slides])(https://drive.google.com/drive/folders/15DVe4Kde7KLIRpvnyCGsZxzI0EV-agGr?usp=sharing)
+[Slides](https://drive.google.com/drive/folders/15DVe4Kde7KLIRpvnyCGsZxzI0EV-agGr?usp=sharing)
 
 [PS1 Reports](https://drive.google.com/drive/folders/0Bw_Ho2Q9rGmWZGhoTVY1am5Ocmc?usp=sharing)
 
